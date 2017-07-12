@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/media/jai_core/1.1.3/jai_core-1.1.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/media/jai_imageio/1.1/jai_imageio-1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/media/jai_codec/1.1.3/jai_codec-1.1.3.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/geotools/gt-process/10-SNAPSHOT/gt-process-10-SNAPSHOT.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/geotools/gt-api/10-SNAPSHOT/gt-api-10-SNAPSHOT.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/vividsolutions/jts/1.13/jts-1.13.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/geotools/gt-referencing/10-SNAPSHOT/gt-referencing-10-SNAPSHOT.jar"/>
+  <classpathentry kind="var" path="M2_REPO/java3d/vecmath/1.3.2/vecmath-1.3.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/geotools/gt-metadata/10-SNAPSHOT/gt-metadata-10-SNAPSHOT.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/geotools/gt-opengis/10-SNAPSHOT/gt-opengis-10-SNAPSHOT.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/java/dev/jsr-275/jsr-275/1.0-beta-2/jsr-275-1.0-beta-2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/jgridshift/jgridshift/1.0/jgridshift-1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/geotools/gt-main/10-SNAPSHOT/gt-main-10-SNAPSHOT.jar"/>
+  <classpathentry kind="var" path="M2_REPO/jdom/jdom/1.0/jdom-1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/geotools/gt-coverage/10-SNAPSHOT/gt-coverage-10-SNAPSHOT.jar"/>
+  <classpathentry kind="var" path="M2_REPO/it/geosolutions/imageio-ext/imageio-ext-tiff/1.1.8/imageio-ext-tiff-1.1.8.jar"/>
+  <classpathentry kind="var" path="M2_REPO/it/geosolutions/imageio-ext/imageio-ext-utilities/1.1.8/imageio-ext-utilities-1.1.8.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jaitools/jt-zonalstats/1.3.1/jt-zonalstats-1.3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jaitools/jt-utils/1.3.1/jt-utils-1.3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/geotools/gt-shapefile/10-SNAPSHOT/gt-shapefile-10-SNAPSHOT.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/geotools/gt-data/10-SNAPSHOT/gt-data-10-SNAPSHOT.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/geotools/gt-cql/10-SNAPSHOT/gt-cql-10-SNAPSHOT.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/geotools/gt-process-geometry/10-SNAPSHOT/gt-process-geometry-10-SNAPSHOT.jar"/>
+</classpath>
